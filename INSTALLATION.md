@@ -41,7 +41,7 @@ This document provides detailed instructions for installing the Stash URL Sorter
 
 2. Clone the repository:
    ```bash
-   git clone https://github.com/[YourUsername]/stash-url-sorter.git stashURLSorter
+   git clone https://github.com/wagerbomb/stash-url-sorter.git stashURLSorter
    ```
 
 3. Restart Stash or reload plugins from the Settings page
