@@ -50,7 +50,7 @@ MIT License
 
 ## Author
 
-[Your GitHub Username]
+wagerbomb
 
 ## Contributing
 
