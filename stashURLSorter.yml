@@ -1,0 +1,6 @@
+name: Stash URL Sorter
+description: Adds a button to sort URLs alphabetically by domain on performer edit pages
+version: 1.0
+ui:
+  javascript:
+    - stash-url-sorter.js
